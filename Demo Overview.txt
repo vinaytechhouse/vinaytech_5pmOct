@@ -1,0 +1,154 @@
+Daily session 5/5.05 PM -6 /6.05 pm
+
+Regular classes confirmation
+
+=============================================================================
+Demo Overview
+=============================================================================
+
+How many types of Data available in IT?
+Three types [structured, semi-structured, un-structured]
+
+How many types of data formats available in IT?
+Two [Database, File]
+
+How many types of storages available in IT?
+a) On-Premise storage [within the organization storage]
+b) Cloud storage[Somebody else's storage]
+
+What is BI?
+Business Intelligence [Intelligence data of the business].
+Decision making data or Analytical data of the business.
+
+What is BI Process?
+
+The process used to convert normal data into decision making data. It is a layered process.
+
+BI contain typically 5 layers
+a) ETL: Extract Transform LOad: Data Gathering Layer
+b) DWH: Data Warehouse: Data Storage Layer
+c) Semantic: Analytical Layer: Specific Data and Aggregate and Analytical Storage Area
+d) Reporting: Data Presentation Area
+e) Data Quality: To ensure quality and process through ETL.
+f) Metadata Management Layer: TO work on tables, columns, relationships etc.
+
+What is MSBI? Evolution?
+
+MSBI is the first SSBI suite from Microsoft with multiple tools to perform end-end operations and generate report or dashboard from data.
+Release: 2005
+Versions: 2005,2008, 2008 R2, 2012, 2014, 2016, 2017, 2019, 2022
+Major Tools: SSIS, SSAS, SSRS, DQS, MDS
+SSIS: SQL Server Integration Services: ON-Premise ETL
+SSAS: SQL Server Analysis Services: ON-Premise Semantic, Earlier we were having Azure -SSAS Tabular Model
+SSRS: SQL Server Reporting Services: ON-Premise Reporting
+DQS: Data QUality Services: ON-Premise Data Quality
+MDS: Master Data Services: On-Premise Metadata Management
+
+What is Power BI?
+"Powering BI" or "Adding More Power to BI"
+
+Power BI is a SSBI Cloud and On-Premise supportive application with multiple concepts to perform end-end operations and generate reports or dashboards from data.
+
+Release: 2013 July
+Versions: NO Versions, Monthly updates available.
+
+What is SSBI?
+If a BI component / application perform ETL, Storage, Analytical, Reporting operations, then it is called as SSBI.
+
+What is Power Platform? Evolution?
+The platform where we have multiple low-code components.
+a) Power BI : Low-code application to generate reports and dashboards
+b) Power Apps:  Low-code application to create mobile and tab friendly apps
+c) Power Automate : Low-code application to perform RPA[Robotic Process Automation]
+d) Virtual Agent:  : Low-code application to create chotbots
+e) Power Pages:  : Low-code application to create web pages and web sites
+
+Release: 2019
+
+What is Azure BI?
+Azure: A cloud platform from Microsoft with various services [storage, platform, data, network, Data Science, AI, BI etc.]
+
+Google Drive: Data Cloud
+One Drive: Data Cloud
+
+Prime / Netflix / Aha: Streaming Clouds
+
+Azure BI: If we perorm BI operations in Azure, then we can consider as Azure BI operations area.
+	Note: MSBI and Power BI physical softwares available, we can download with same name and install.
+
+	ADF: Azure Data Factory: Data Factory: Cloud ETL
+	AAS: Azure Analysis Services: Cloud Semantic Area
+	Synapse: Cloud Storage, Analytics, Data Science and AI operations.
+
+
+What is Microsoft Fabric?
+
+After observing market, MS decided to give a few components as a pack, i.e Microsoft Fabric.
+
+a) Data Gathering: Data Factory
+b) Data Presentation: Power BI
+c) Data Storage and Semantics: Synapse
+d) Data Governance and Monitoring: Data Activator
+
+Note: All this combination with a single account and licence.
+
+Released: 2023 June End.
+
+Which combination is good along with Power BI? [you are trying with more experience]
+
+Power BI + SQL Server + ADF : As of now...
+
+Power BI + ADF / SSIS / SSAS / SSRS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
