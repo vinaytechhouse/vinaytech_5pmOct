@@ -1,6 +1,6 @@
 Daily session 5/5.05 PM -6 /6.05 pm
 
-Regular classes confirmation
+Regular classes confirmation will be given tomorrow
 
 =============================================================================
 Demo Overview
@@ -10,7 +10,7 @@ How many types of Data available in IT?
 Three types [structured, semi-structured, un-structured]
 
 How many types of data formats available in IT?
-Two [Database, File]
+Two [Databases, File]
 
 How many types of storages available in IT?
 a) On-Premise storage [within the organization storage]
